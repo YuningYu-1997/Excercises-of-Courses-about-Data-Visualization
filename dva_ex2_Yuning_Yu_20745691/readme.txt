@@ -1,0 +1,1 @@
+I use the function 'RGB' to define the color of each lines.
